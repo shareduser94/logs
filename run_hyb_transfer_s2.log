@@ -1,0 +1,26 @@
+ar25-0c556536 levels 1/8 score 0.001 level_actions [1669] overs 113 states 1303 raw 6670 mask r[] c[] unmask 0 fb 0 40.5s
+bp35-0a0ad940 levels 1/9 score 0.000 level_actions [5280] overs 225 states 2092 raw 4202 mask r[63] c[] unmask 1 fb 0 189.9s
+cd82-fb555c5d levels 2/6 score 0.011 level_actions [1160, 1257] overs 98 states 994 raw 6608 mask r[63] c[] unmask 0 fb 0 21.9s
+cn04-2fe56bfb levels 0/6 score 0.000 level_actions [] overs 133 states 1851 raw 8779 mask r[] c[] unmask 0 fb 0 14.9s
+dc22-fdcac232 levels 2/6 score 0.021 level_actions [922, 8100] overs 115 states 168 raw 797 mask r[63] c[] unmask 0 fb 0 42.2s
+ft09-0d8bbf25 levels 1/6 score 0.016 level_actions [753] overs 293 states 1487 raw 6530 mask r[] c[] unmask 0 fb 0 19.2s
+g50t-5849a774 levels 1/7 score 0.057 level_actions [619] overs 76 states 3521 raw 3792 mask r[] c[] unmask 2 fb 19 34.6s
+ka59-38d34dbb levels 0/7 score 0.000 level_actions [] overs 100 states 7764 raw 8044 mask r[] c[] unmask 1 fb 0 51.5s
+lf52-271a04aa levels 1/10 score 1.224 level_actions [39] overs 1 states 215 raw 839 mask r[0] c[] unmask 0 fb 0 52.6s
+lp85-305b61c3 levels 3/8 score 0.411 level_actions [52, 1004, 275] overs 77 states 1908 raw 8384 mask r[] c[] unmask 0 fb 0 47.9s
+ls20-9607627b levels 1/7 score 0.010 level_actions [417] overs 84 states 448 raw 2412 mask r[61, 62] c[] unmask 0 fb 0 24.8s
+m0r0-492f87ba levels 1/6 score 4.460 level_actions [31] overs 66 states 1742 raw 2171 mask r[] c[] unmask 1 fb 0 61.6s
+r11l-495a7899 levels 1/6 score 4.357 level_actions [23] overs 192 states 3210 raw 9291 mask r[] c[0] unmask 0 fb 0 42.5s
+re86-8af5384d levels 0/8 score 0.000 level_actions [] overs 100 states 4679 raw 9520 mask r[63] c[] unmask 0 fb 0 12.1s
+s5i5-18d95033 levels 1/8 score 0.003 level_actions [623] overs 74 states 2269 raw 7821 mask r[63] c[] unmask 0 fb 0 26.3s
+sb26-7fbdac44 levels 0/8 score 0.000 level_actions [] overs 34 states 6183 raw 6183 mask r[] c[] unmask 0 fb 0 39.1s
+sc25-635fd71a levels 0/6 score 0.000 level_actions [] overs 191 states 6536 raw 6700 mask r[] c[] unmask 1 fb 205 42.5s
+sk48-d8078629 levels 0/8 score 0.000 level_actions [] overs 37 states 3147 raw 3147 mask r[] c[] unmask 0 fb 0 44.3s
+sp80-589a99af levels 1/6 score 0.014 level_actions [713] overs 229 states 3868 raw 8297 mask r[0, 63] c[] unmask 0 fb 0 31.0s
+su15-1944f8ab levels 1/9 score 0.006 level_actions [415] overs 266 states 6512 raw 6512 mask r[63] c[] unmask 0 fb 0 51.9s
+tn36-ef4dde99 levels 1/7 score 3.571 level_actions [22] overs 163 states 2887 raw 9421 mask r[1] c[] unmask 0 fb 0 109.3s
+tr87-cd924810 levels 0/6 score 0.000 level_actions [] overs 78 states 5734 raw 9661 mask r[] c[] unmask 0 fb 0 19.7s
+tu93-0768757b levels 3/9 score 0.852 level_actions [8546, 37, 607] overs 243 states 188 raw 325 mask r[] c[] unmask 2 fb 11 13.6s
+vc33-5430563c levels 2/7 score 1.082 level_actions [13, 224] overs 134 states 1187 raw 8171 mask r[0] c[] unmask 0 fb 0 28.7s
+wa30-ee6fef47 levels 0/9 score 0.000 level_actions [] overs 50 states 2284 raw 8799 mask r[] c[] unmask 0 fb 0 8.5s
+MEAN SCORE 0.6438 games with >=1 level 17

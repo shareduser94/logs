@@ -1,0 +1,7 @@
+cd82-fb555c5d levels 2/6 score 0.050 level_actions [539, 8157] overs 99 states 210 raw 1144 mask r[63] c[] unmask 0 fb 0 24.2s
+dc22-fdcac232 levels 2/6 score 0.015 level_actions [1120, 7076] overs 104 states 257 raw 257 mask r[] c[] unmask 0 fb 0 71.8s
+lf52-271a04aa levels 3/10 score 0.116 level_actions [128, 6462, 3136] overs 4 states 21 raw 274 mask r[0] c[] unmask 0 fb 0 89.3s
+lp85-305b61c3 levels 3/8 score 1.670 level_actions [26, 223, 158] overs 63 states 2874 raw 2874 mask r[] c[] unmask 0 fb 0 48.5s
+tu93-0768757b levels 4/9 score 0.676 level_actions [420, 42, 545, 7510] overs 508 states 272 raw 848 mask r[63] c[] unmask 1 fb 25 30.3s
+vc33-5430563c levels 2/7 score 0.030 level_actions [157, 316] overs 136 states 1124 raw 8016 mask r[0] c[] unmask 1 fb 0 42.8s
+MEAN SCORE 0.4261 games with >=1 level 6
