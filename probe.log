@@ -1,0 +1,147 @@
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-11-08 19:05:01 | INFO | Successfully fetched 25 environment(s) from API
+N environments: 25
+[
+ {
+  "game_id": "tr87-cd924810",
+  "title": "TR87",
+  "default_fps": 5,
+  "tags": [
+   "keyboard"
+  ],
+  "private_tags": null,
+  "level_tags": null,
+  "baseline_actions": [
+   54,
+   58,
+   40,
+   45,
+   71,
+   146
+  ],
+  "date_downloaded": "2026-11-08 22:05:01.257232+00:00",
+  "class_name": "Tr87"
+ },
+ {
+  "game_id": "r11l-495a7899",
+  "title": "R11L",
+  "default_fps": 5,
+  "tags": [
+   "click"
+  ],
+  "private_tags": null,
+  "level_tags": null,
+  "baseline_actions": [
+   22,
+   33,
+   51,
+   26,
+   52,
+   49
+  ],
+  "date_downloaded": "2026-11-08 22:05:01.257284+00:00",
+  "class_name": "R11l"
+ }
+]
+IDs: ['tr87-cd924810', 'r11l-495a7899', 'sb26-7fbdac44', 'cd82-fb555c5d', 's5i5-18d95033', 'ft09-0d8bbf25', 'wa30-ee6fef47', 'su15-1944f8ab', 'lf52-271a04aa', 'tn36-ef4dde99', 'ar25-0c556536', 'lp85-305b61c3', 'sp80-589a99af', 'ls20-9607627b', 'bp35-0a0ad940', 'ka59-38d34dbb', 'dc22-fdcac232', 'cn04-2fe56bfb', 'sk48-d8078629', 'vc33-5430563c', 'g50t-5849a774', 'sc25-635fd71a', 'm0r0-492f87ba', 'tu93-0768757b', 're86-8af5384d']
+2026-11-08 19:05:01 | INFO | Created new scorecard: 812d5452-cf59-46b0-8fc9-b1d0bba7a382
+2026-11-08 19:05:02 | INFO | Successfully fetched metadata for game tr87
+2026-11-08 19:05:03 | INFO | Successfully downloaded game tr87 (version: cd924810) to environment_files\tr87\cd924810
+2026-11-08 19:05:03 | INFO | Successfully loaded game class Tr87 from environment_files\tr87\cd924810\tr87.py
+tr87-cd924810 frames [(64, 64)] acts [1, 2, 3, 4] win_levels 6 maxlev 0 game_overs 15 wins 0 multi-frame steps 0 steps/s 1362
+2026-11-08 19:05:05 | INFO | Successfully fetched metadata for game r11l
+2026-11-08 19:05:07 | INFO | Successfully downloaded game r11l (version: 495a7899) to environment_files\r11l\495a7899
+2026-11-08 19:05:07 | INFO | Successfully loaded game class R11l from environment_files\r11l\495a7899\r11l.py
+r11l-495a7899 frames [(64, 64)] acts [6] win_levels 6 maxlev 1 game_overs 123 wins 0 multi-frame steps 1543 steps/s 522
+2026-11-08 19:05:12 | INFO | Successfully fetched metadata for game sb26
+2026-11-08 19:05:13 | INFO | Successfully downloaded game sb26 (version: 7fbdac44) to environment_files\sb26\7fbdac44
+2026-11-08 19:05:13 | INFO | Successfully loaded game class Sb26 from environment_files\sb26\7fbdac44\sb26.py
+sb26-7fbdac44 frames [(64, 64)] acts [5, 6, 7] win_levels 8 maxlev 0 game_overs 10 wins 0 multi-frame steps 684 steps/s 673
+2026-11-08 19:05:17 | INFO | Successfully fetched metadata for game cd82
+2026-11-08 19:05:19 | INFO | Successfully downloaded game cd82 (version: fb555c5d) to environment_files\cd82\fb555c5d
+2026-11-08 19:05:19 | INFO | Successfully loaded game class Cd82 from environment_files\cd82\fb555c5d\cd82.py
+cd82-fb555c5d frames [(64, 64)] acts [1, 2, 3, 4, 5, 6] win_levels 6 maxlev 1 game_overs 19 wins 0 multi-frame steps 339 steps/s 2482
+2026-11-08 19:05:21 | INFO | Successfully fetched metadata for game s5i5
+2026-11-08 19:05:22 | INFO | Successfully downloaded game s5i5 (version: 18d95033) to environment_files\s5i5\18d95033
+2026-11-08 19:05:22 | INFO | Successfully loaded game class S5i5 from environment_files\s5i5\18d95033\s5i5.py
+s5i5-18d95033 frames [(64, 64)] acts [6] win_levels 8 maxlev 0 game_overs 40 wins 0 multi-frame steps 0 steps/s 5796
+2026-11-08 19:05:24 | INFO | Successfully fetched metadata for game ft09
+2026-11-08 19:05:25 | INFO | Successfully downloaded game ft09 (version: 0d8bbf25) to environment_files\ft09\0d8bbf25
+2026-11-08 19:05:25 | INFO | Successfully loaded game class Ft09 from environment_files\ft09\0d8bbf25\ft09.py
+ft09-0d8bbf25 frames [(64, 64)] acts [6] win_levels 6 maxlev 0 game_overs 4 wins 0 multi-frame steps 1843 steps/s 863
+2026-11-08 19:05:28 | INFO | Successfully fetched metadata for game wa30
+2026-11-08 19:05:29 | INFO | Successfully downloaded game wa30 (version: ee6fef47) to environment_files\wa30\ee6fef47
+2026-11-08 19:05:29 | INFO | Successfully loaded game class Wa30 from environment_files\wa30\ee6fef47\wa30.py
+wa30-ee6fef47 frames [(64, 64)] acts [1, 2, 3, 4, 5] win_levels 9 maxlev 0 game_overs 10 wins 0 multi-frame steps 0 steps/s 4479
+2026-11-08 19:05:31 | INFO | Successfully fetched metadata for game su15
+2026-11-08 19:05:32 | INFO | Successfully downloaded game su15 (version: 1944f8ab) to environment_files\su15\1944f8ab
+2026-11-08 19:05:32 | INFO | Successfully loaded game class Su15 from environment_files\su15\1944f8ab\su15.py
+su15-1944f8ab frames [(64, 64)] acts [6, 7] win_levels 9 maxlev 0 game_overs 25 wins 0 multi-frame steps 828 steps/s 2131
+2026-11-08 19:05:35 | INFO | Successfully fetched metadata for game lf52
+2026-11-08 19:05:36 | INFO | Successfully downloaded game lf52 (version: 271a04aa) to environment_files\lf52\271a04aa
+2026-11-08 19:05:36 | INFO | Successfully loaded game class Lf52 from environment_files\lf52\271a04aa\lf52.py
+lf52-271a04aa frames [(64, 64), (64, 64)] acts [1, 2, 3, 4, 6, 7] win_levels 10 maxlev 0 game_overs 21 wins 0 multi-frame steps 2000 steps/s 987
+2026-11-08 19:05:39 | INFO | Successfully fetched metadata for game tn36
+2026-11-08 19:05:41 | INFO | Successfully downloaded game tn36 (version: ef4dde99) to environment_files\tn36\ef4dde99
+2026-11-08 19:05:41 | INFO | Successfully loaded game class Tn36 from environment_files\tn36\ef4dde99\tn36.py
+tn36-ef4dde99 frames [(64, 64)] acts [6] win_levels 7 maxlev 0 game_overs 32 wins 0 multi-frame steps 69 steps/s 2104
+2026-11-08 19:05:43 | INFO | Successfully fetched metadata for game ar25
+2026-11-08 19:05:44 | INFO | Successfully downloaded game ar25 (version: 0c556536) to environment_files\ar25\0c556536
+2026-11-08 19:05:44 | INFO | Successfully loaded game class Ar25 from environment_files\ar25\0c556536\ar25.py
+ar25-0c556536 frames [(64, 64)] acts [1, 2, 3, 4, 5, 6, 7] win_levels 8 maxlev 0 game_overs 22 wins 0 multi-frame steps 0 steps/s 1456
+2026-11-08 19:05:47 | INFO | Successfully fetched metadata for game lp85
+2026-11-08 19:05:48 | INFO | Successfully downloaded game lp85 (version: 305b61c3) to environment_files\lp85\305b61c3
+2026-11-08 19:05:48 | INFO | Successfully loaded game class Lp85 from environment_files\lp85\305b61c3\lp85.py
+lp85-305b61c3 frames [(64, 64)] acts [6] win_levels 8 maxlev 0 game_overs 2 wins 0 multi-frame steps 0 steps/s 3897
+2026-11-08 19:05:50 | INFO | Successfully fetched metadata for game sp80
+2026-11-08 19:05:51 | INFO | Successfully downloaded game sp80 (version: 589a99af) to environment_files\sp80\589a99af
+2026-11-08 19:05:51 | INFO | Successfully loaded game class Sp80 from environment_files\sp80\589a99af\sp80.py
+sp80-589a99af frames [(64, 64)] acts [1, 2, 3, 4, 5, 6] win_levels 6 maxlev 1 game_overs 71 wins 0 multi-frame steps 282 steps/s 941
+2026-11-08 19:05:55 | INFO | Successfully fetched metadata for game ls20
+2026-11-08 19:05:56 | INFO | Successfully downloaded game ls20 (version: 9607627b) to environment_files\ls20\9607627b
+2026-11-08 19:05:56 | INFO | Successfully loaded game class Ls20 from environment_files\ls20\9607627b\ls20.py
+ls20-9607627b frames [(64, 64)] acts [1, 2, 3, 4] win_levels 7 maxlev 0 game_overs 15 wins 0 multi-frame steps 43 steps/s 772
+2026-11-08 19:06:01 | INFO | Successfully fetched metadata for game bp35
+2026-11-08 19:06:03 | INFO | Successfully downloaded game bp35 (version: 0a0ad940) to environment_files\bp35\0a0ad940
+2026-11-08 19:06:03 | INFO | Successfully loaded game class Bp35 from environment_files\bp35\0a0ad940\bp35.py
+bp35-0a0ad940 frames [(64, 64), (64, 64)] acts [3, 4, 6, 7] win_levels 9 maxlev 0 game_overs 38 wins 0 multi-frame steps 2000 steps/s 323
+2026-11-08 19:06:12 | INFO | Successfully fetched metadata for game ka59
+2026-11-08 19:06:15 | INFO | Successfully downloaded game ka59 (version: 38d34dbb) to environment_files\ka59\38d34dbb
+2026-11-08 19:06:15 | INFO | Successfully loaded game class Ka59 from environment_files\ka59\38d34dbb\ka59.py
+ka59-38d34dbb frames [(64, 64)] acts [1, 2, 3, 4, 6] win_levels 7 maxlev 0 game_overs 20 wins 0 multi-frame steps 10 steps/s 3168
+2026-11-08 19:06:17 | INFO | Successfully fetched metadata for game dc22
+2026-11-08 19:06:18 | INFO | Successfully downloaded game dc22 (version: fdcac232) to environment_files\dc22\fdcac232
+2026-11-08 19:06:18 | INFO | Successfully loaded game class Dc22 from environment_files\dc22\fdcac232\dc22.py
+dc22-fdcac232 frames [(64, 64)] acts [1, 2, 3, 4, 6] win_levels 6 maxlev 0 game_overs 15 wins 0 multi-frame steps 0 steps/s 1835
+2026-11-08 19:06:20 | INFO | Successfully fetched metadata for game cn04
+2026-11-08 19:06:22 | INFO | Successfully downloaded game cn04 (version: 2fe56bfb) to environment_files\cn04\2fe56bfb
+2026-11-08 19:06:22 | INFO | Successfully loaded game class Cn04 from environment_files\cn04\2fe56bfb\cn04.py
+cn04-2fe56bfb frames [(64, 64)] acts [1, 2, 3, 4, 5, 6] win_levels 6 maxlev 0 game_overs 26 wins 0 multi-frame steps 0 steps/s 4736
+2026-11-08 19:06:24 | INFO | Successfully fetched metadata for game sk48
+2026-11-08 19:06:25 | INFO | Successfully downloaded game sk48 (version: d8078629) to environment_files\sk48\d8078629
+2026-11-08 19:06:25 | INFO | Successfully loaded game class Sk48 from environment_files\sk48\d8078629\sk48.py
+sk48-d8078629 frames [(64, 64)] acts [1, 2, 3, 4, 6, 7] win_levels 8 maxlev 0 game_overs 6 wins 0 multi-frame steps 1066 steps/s 2402
+2026-11-08 19:06:26 | INFO | Successfully fetched metadata for game vc33
+2026-11-08 19:06:27 | INFO | Successfully downloaded game vc33 (version: 5430563c) to environment_files\vc33\5430563c
+2026-11-08 19:06:27 | INFO | Successfully loaded game class Vc33 from environment_files\vc33\5430563c\vc33.py
+vc33-5430563c frames [(64, 64)] acts [6] win_levels 7 maxlev 0 game_overs 40 wins 0 multi-frame steps 0 steps/s 1722
+2026-11-08 19:06:29 | INFO | Successfully fetched metadata for game g50t
+2026-11-08 19:06:31 | INFO | Successfully downloaded game g50t (version: 5849a774) to environment_files\g50t\5849a774
+2026-11-08 19:06:31 | INFO | Successfully loaded game class G50t from environment_files\g50t\5849a774\g50t.py
+g50t-5849a774 frames [(64, 64)] acts [1, 2, 3, 4, 5] win_levels 7 maxlev 0 game_overs 15 wins 0 multi-frame steps 1112 steps/s 886
+2026-11-08 19:06:35 | INFO | Successfully fetched metadata for game sc25
+2026-11-08 19:06:37 | INFO | Successfully downloaded game sc25 (version: 635fd71a) to environment_files\sc25\635fd71a
+2026-11-08 19:06:37 | INFO | Successfully loaded game class Sc25 from environment_files\sc25\635fd71a\sc25.py
+sc25-635fd71a frames [(64, 64)] acts [1, 2, 3, 4, 6] win_levels 6 maxlev 0 game_overs 30 wins 0 multi-frame steps 429 steps/s 824
+2026-11-08 19:06:41 | INFO | Successfully fetched metadata for game m0r0
+2026-11-08 19:06:42 | INFO | Successfully downloaded game m0r0 (version: 492f87ba) to environment_files\m0r0\492f87ba
+2026-11-08 19:06:42 | INFO | Successfully loaded game class M0r0 from environment_files\m0r0\492f87ba\m0r0.py
+m0r0-492f87ba frames [(64, 64)] acts [1, 2, 3, 4, 5, 6] win_levels 6 maxlev 0 game_overs 13 wins 0 multi-frame steps 0 steps/s 3025
+2026-11-08 19:06:43 | INFO | Successfully fetched metadata for game tu93
+2026-11-08 19:06:44 | INFO | Successfully downloaded game tu93 (version: 0768757b) to environment_files\tu93\0768757b
+2026-11-08 19:06:44 | INFO | Successfully loaded game class Tu93 from environment_files\tu93\0768757b\tu93.py
+tu93-0768757b frames [(64, 64)] acts [1, 2, 3, 4] win_levels 9 maxlev 0 game_overs 40 wins 0 multi-frame steps 837 steps/s 3196
+2026-11-08 19:06:46 | INFO | Successfully fetched metadata for game re86
+2026-11-08 19:06:47 | INFO | Successfully downloaded game re86 (version: 8af5384d) to environment_files\re86\8af5384d
+2026-11-08 19:06:47 | INFO | Successfully loaded game class Re86 from environment_files\re86\8af5384d\re86.py
+re86-8af5384d frames [(64, 64)] acts [1, 2, 3, 4, 5] win_levels 8 maxlev 0 game_overs 20 wins 0 multi-frame steps 0 steps/s 3312

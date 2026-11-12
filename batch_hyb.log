@@ -1,0 +1,7 @@
+hyb_transfer s2 rc=0 1081s
+hyb_reset s2 rc=0 1130s
+hyb_transfer s0 rc=0 1133s
+hyb_transfer s1 rc=0 1142s
+hyb_reset s1 rc=0 1147s
+hyb_reset s0 rc=0 1149s
+DONE 0 failures
